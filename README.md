@@ -72,10 +72,38 @@ Explore my other applications and development experiments.
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,php,html,css,react,tailwind,laravel,nodejs,express,mysql,postgres,git,github,docker,vercel&theme=light&perline=8" alt="Technologies and tools" />
+### Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite&theme=light" alt="HTML, CSS, JavaScript, React, Tailwind CSS and Vite" />
 </p>
 
+### Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python&theme=light" alt="Node.js, Express, PHP, Laravel and Python" />
+</p>
+
+### Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=light" alt="MySQL and PostgreSQL" />
+  <img src="https://img.shields.io/badge/TiDB-Cloud%20Database-111827?style=flat-square&logo=databricks&logoColor=white" alt="TiDB Cloud" />
+</p>
+
+### Tools & Development Environment
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman&theme=light" alt="Git, GitHub, VS Code, Docker and Postman" />
+  <img src="https://img.shields.io/badge/XAMPP-Development%20Environment-FB7A24?style=flat-square&logo=apachefriends&logoColor=white" alt="XAMPP" />
+</p>
+
+### Deployment & Hosting
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel&theme=light" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-Cloud%20Hosting-46E3B7?style=flat-square&logo=render&logoColor=111827" alt="Render" />
+</p>
 ---
 
 ## Current Focus

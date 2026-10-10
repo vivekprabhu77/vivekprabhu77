@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:334155&height=180&section=header&text=Vivek%20Prabhu&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Software%20Developer%20%7C%20AI%2FML%20Explorer&descSize=16&descAlignY=60" width="100%" alt="Vivek Prabhu animated header" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=800&color=334155&center=true&vCenter=true&width=650&lines=Building+Software+That+Solves+Real+Problems;Full-Stack+Development;Exploring+AI+%26+Computer+Vision;Turning+Ideas+Into+Products" alt="Animated developer introduction" />
+</p>
 # Vivek Prabhu
 
 ### Software Developer · AI/ML Explorer · Problem Solver
@@ -108,4 +115,17 @@ Have an interesting idea, a technical challenge, or an opportunity to collaborat
 
 <p align="center">
   <sub>Built with curiosity. Improved through experimentation. Driven by real-world problems.</sub>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,100:111827&height=120&section=footer&animation=fadeIn" width="100%" alt="Decorative footer wave" />
+</p>
+
+<p align="center">
+  <strong>Thanks for visiting my profile.</strong>
+  <br/>
+  Building. Learning. Shipping.
+  <br/><br/>
+  <a href="https://github.com/vivekprabhu77">GitHub</a>
+  &nbsp; · &nbsp;
+  <a href="https://vivekprabhu.elitestudios.in/">Portfolio</a>
 </p>
